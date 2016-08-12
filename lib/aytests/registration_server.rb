@@ -82,7 +82,7 @@ module AYTests
     # @see Servlets::ListUpdates
     def mount_endpoints
       server.mount("/connect/repositories/installer", Servlets::ListUpdates,
-        URI("https://#{address}/static/repos/sles12"))
+        URI("http://#{address}/static/repos/sles12"))
     end
   end
 end
