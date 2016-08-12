@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Fri Aug 12 15:04:55 UTC 2016 - igonzalezsosa@suse.com
+
+- Installer updates repository uses HTTP instead of HTTPS
+- 1.0.24
+
+-------------------------------------------------------------------
 Tue Aug  2 08:03:59 UTC 2016 - igonzalezsosa@suse.com
 
 - Add a fake registration server to test basic registration and
